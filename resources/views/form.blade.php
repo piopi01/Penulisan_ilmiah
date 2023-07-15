@@ -687,7 +687,7 @@ var gform;gform||(document.addEventListener("gform_main_scripts_loaded",function
 													class="gfield gfield_html gfield_html_formatted gfield_no_follows_desc field_sublabel_below field_description_above gfield_visibility_visible"
 													data-js-reload="field_1_4">
 													<p><strong>Dalam 2 minggu terakhir</strong>, seberapa sering masalah-masalah berikut ini mengganggu kamu?</p>
-													<p>Tidak semua field harus diisi, jadi pastikan untuk memberikan jawaban yang tepat sesuai dengan pengalamanmu.</p>
+													<p><strong>Tidak semua field harus diisi</strong>, jadi pastikan untuk memberikan jawaban yang tepat sesuai dengan pengalamanmu.</p>
 												</li>
 												<li id="field_1_38"
 													class="gfield gform_hidden field_sublabel_below field_description_above gfield_visibility_visible"
