@@ -12,8 +12,4 @@
 
 ### php artisan serve
 
-## Login
 
-### email : admin@example.com
-
-### password : password
